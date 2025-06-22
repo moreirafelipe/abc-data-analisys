@@ -65,3 +65,21 @@ Install the necessary packages:
 pip install pip-tools
 pip-compile requirements.in
 pip install -r requirements.txt
+```
+
+### 📊 Data visualization
+
+- Visualization Types:
+
+- Funnel Chart: Overall drop-offs per stage
+- Dispersion chart: conversion by country and source
+- Stacked Bar Chart: Conversion rates by job role, country and prospect status
+- Box Plot: Variability in conversion by Job Role
+- Heatmap: Country vs Prospect Status rates
+
+#### Tools:
+- Looker
+- Export interactive dashboards for stakeholder walkthroughs
+
+#### Dashboard:
+[ABC Marketing ROI Dashboard](https://lookerstudio.google.com/reporting/2ca779ec-7392-44d4-b92b-0e8546ff801b)
